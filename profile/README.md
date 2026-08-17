@@ -6,7 +6,7 @@
 
 ## What's public here
 
-- **[research](https://github.com/TriunaLabs/research)** — articles published with the code and data behind them, so the claims can be checked. First up: [From KV-Cache SSDs to AI-Native SSDs](https://github.com/TriunaLabs/research/tree/main/articles/ai-native-ssd), with a laptop-reproducible 102 GB data-movement benchmark.
+- **[research](https://github.com/TriunaLabs/research)** — articles published with the code and data behind them, so the claims can be checked. First up: [Route the Work, Not Just the Data](https://github.com/TriunaLabs/research/tree/main/articles/ai-native-ssd), with a laptop-reproducible 102 GB data-movement benchmark.
 
 ## What we're building
 
